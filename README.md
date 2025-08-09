@@ -1,4 +1,4 @@
-# Hi there, I'm Atharva Khairnar 👋
+# Hi there, I'm Chetna Pole 👋
 
 Welcome to my GitHub! I'm a passionate *Data Scientist* and *4th-year Computer Engineering student* from Pimpri Chinchwad College of Engineering and Research. I specialize in *Machine Learning, **Data Science, and **Data Visualization*.
 

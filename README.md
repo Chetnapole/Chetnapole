@@ -6,8 +6,7 @@ Welcome to my GitHub! I'm a passionate *Data Scientist* and *4th-year Computer E
 
 - 🌟 *Current Role*: Data Scientist | Computer Engineering Student
 - 🎓 *Research Interests*: AI in healthcare, deep learning, and anomaly detection
-- 📰 *Publications: Research on **lung and breast cancer detection* using machine learning
-- 🌐 *Portfolio*: [Check out my work](https://atharva1554.github.io/projects.html)
+
 
 ---
 

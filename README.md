@@ -60,14 +60,6 @@ Here’s a snapshot of the tools and technologies I frequently use:
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-003C71?logo=matplotlib&logoColor=ffffff)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-0D3F5F?logo=seaborn&logoColor=ffffff)
 
----
-
-## 🏅 Achievements
-
-- *HackerRank*: I've earned several certifications for problem-solving and algorithms on [HackerRank](https://www.hackerrank.com/profile/atharva_khairna1).
-- *Kaggle Competitions*: Active participant in Kaggle, with a focus on predictive modeling and machine learning. [Check out my profile](https://www.kaggle.com/khairnaratharva).
-
----
 
 ## 📈 GitHub Stats
 
@@ -80,7 +72,7 @@ Here’s a snapshot of the tools and technologies I frequently use:
 
 Feel free to reach out for collaboration, opportunities, or just to chat!
 
-- 📧 [atharvakhairnar1554@gmail.com](mailto:atharvakhairnar1554@gmail.com)
-- 🏆 [LeetCode](https://leetcode.com/u/atharva1554/)
+- 📧 [chetnapole3594@gmail.com](mailto:chetnapole3594@gmail.com)
+- 🏆 [LeetCode](https://leetcode.com/u/chetna2003/)
 
 ---

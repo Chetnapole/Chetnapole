@@ -60,13 +60,6 @@ Here’s a snapshot of the tools and technologies I frequently use:
 ![Seaborn](https://img.shields.io/badge/-Seaborn-0D3F5F?logo=seaborn&logoColor=ffffff)
 
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atharva1554&show_icons=true&count_private=true&hide_title=true&hide_border=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atharva1554&layout=compact&hide_title=true&hide_border=true&theme=radical)
-
----
-
 ## 🤝 Let's Connect
 
 Feel free to reach out for collaboration, opportunities, or just to chat!
